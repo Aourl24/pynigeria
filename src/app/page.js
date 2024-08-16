@@ -1,7 +1,7 @@
 import Image from "next/image";
 import styles from "./page.module.css";
 import logo from "./logo.svg";
-import people from "./people.JPG";
+import people from "./people.jpg";
 
 export default function Home() {
   return (
