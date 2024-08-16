@@ -42,7 +42,7 @@ export default function Home() {
                 A space for python enthusiasts to share knowledge, tackle projects together and advance in various fields.
               </div>
               <div class="col">
-                <button class="button bg-warning color-black rounded-4 col-6 col-md-5 col-sm-10 my-3 p-3 p-md-4  sz-16 sz-md-18 color-bg-t-hover color-white-hover">
+                <button class="button bg-warning color-black rounded-4 col-6 col-md-5 col-sm-10 my-3 p-3 p-md-4  sz-16 sz-md-18 color-bg-t-hover no-border color-white-hover">
                   become a member
                 </button>
               </div>
