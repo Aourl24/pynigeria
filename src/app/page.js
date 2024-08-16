@@ -9,7 +9,7 @@ export default function Home() {
       <nav class="container-fluid sz-14 display-sm-none sticky-top color-bg-p color-white" style={{zIndex:'20'}}>
         <div class="row">
           <div class="col-8 color-white font-poppins p-4 ">
-            <i class="fab fa-python"></i> Python Nigeria 
+            <i class="fab fa-python p-1 rounded color-s sz-18"></i> Python Nigeria 
           </div>
           <div class="col font-poppins p-4 right "> 
             membership 
